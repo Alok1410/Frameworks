@@ -1,2 +1,2 @@
 # Frameworks
-All types of Automation rameworks and Design Pattern
+All types of Automation frameworks and Design Pattern
